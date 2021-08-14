@@ -1,8 +1,12 @@
 ## Sensei Youtube Dl bot 😉
 <p align="center"><a href="https://t.me/sensei_yt_downloader_bot"><img src="https://telegra.ph/file/11c76f9625db897064f82.jpg" width="400"></a></p>
+
+
 ## Prerequisite
     ffmpeg
-  
+    heroku
+    Telegram Bot Api Hash
+    Telegram App id and api hash
     
 ## install dependencies
     pip3 install -r requirements.txt
