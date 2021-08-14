@@ -1,12 +1,12 @@
 {
-  "name": "YouTube Downloader Bot",
+  "name": "Sensei YT Downloader",
   "description": "A telegram bot To Download Youtube Files ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "logo": "https://telegra.ph/file/11c76f9625db897064f82.jpg",
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
   "repository": "https://github.com/SenseiOfficial/Sensei-YT-Downloader",
-  "success_url": "https://t.me/senseiyoutubedlbot",
+  "success_url": "https://t.me/sensei_yt_downloader_bot",
   "website": "https://github.com/SenseiOfficial/Sensei-YT-Downloader",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
