@@ -1,4 +1,4 @@
-# Youtube Dl bot 😉
+# Sensei Youtube Dl bot 😉
 ## Prerequisite
     ffmpeg
   
@@ -13,7 +13,8 @@
     - python3 -m bot
     
 ## Thanks ❤️
+* [SenseiOfficial](https://t.me/meko_kya) For some minor bug fixes 
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenseiOfficial/Sensei-YT-Downloader/tree/master)
