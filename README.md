@@ -1,4 +1,5 @@
-# Sensei Youtube Dl bot 😉
+## Sensei Youtube Dl bot 😉
+<p align="center"><a href="https://t.me/meko_kya"><img src="https://telegra.ph/file/11c76f9625db897064f82.jpg" width="250"></a></p>
 ## Prerequisite
     ffmpeg
   
@@ -17,4 +18,6 @@
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
+## Deploy 
+- Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenseiOfficial/Sensei-YT-Downloader/tree/master)
