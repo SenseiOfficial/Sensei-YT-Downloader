@@ -1,5 +1,5 @@
 ## Sensei Youtube Dl bot 😉
-<p align="center"><a href="https://t.me/meko_kya"><img src="https://telegra.ph/file/11c76f9625db897064f82.jpg" width="250"></a></p>
+<p align="center"><a href="https://t.me/sensei_yt_downloader_bot"><img src="https://telegra.ph/file/11c76f9625db897064f82.jpg" width="400"></a></p>
 ## Prerequisite
     ffmpeg
   
